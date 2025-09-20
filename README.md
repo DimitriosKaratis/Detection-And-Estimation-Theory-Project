@@ -1,7 +1,7 @@
 # EEG Denoising with Wiener Filter
 
 This repository contains the implementation and analysis of a **Wiener Filter** for denoising EEG (Electroencephalogram) signals.  
-The work was developed as part of the *Estimation and Detection Theory* course project by **Karatis Dimitrios (10775)**.
+The work was developed as part of the *Estimation and Detection Theory* course project of the **Aristotle University of Thessaloniki**.
 
 ---
 
