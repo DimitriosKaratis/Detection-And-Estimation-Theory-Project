@@ -20,9 +20,9 @@ The project is divided into the following main steps:
    - Compute covariance matrices of clean EEG activity and blink-induced noise.  
    - Estimate the Wiener filter matrix:  
 
-     \[
+     $$
      W = R_{vv} (R_{vv} + R_{dd})^{-1}
-     \]
+     $$
 
 3. **Filter Application**  
    - Apply the Wiener filter to both training and test EEG signals.  
